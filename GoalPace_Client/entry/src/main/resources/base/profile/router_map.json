@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "goalDetail",
+      "pageSourceFile": "src/main/ets/pages/GoalDetailPage.ets",
+      "buildFunction": "GoalDetailBuilder"
+    },
+    {
+      "name": "goalForm",
+      "pageSourceFile": "src/main/ets/pages/GoalFormPage.ets",
+      "buildFunction": "GoalFormBuilder"
+    },
+    {
+      "name": "taskForm",
+      "pageSourceFile": "src/main/ets/pages/TaskFormPage.ets",
+      "buildFunction": "TaskFormBuilder"
+    },
+    {
+      "name": "allTasks",
+      "pageSourceFile": "src/main/ets/pages/AllTasksPage.ets",
+      "buildFunction": "AllTasksBuilder"
+    },
+    {
+      "name": "review",
+      "pageSourceFile": "src/main/ets/pages/ReviewPage.ets",
+      "buildFunction": "ReviewBuilder"
+    },
+    {
+      "name": "points",
+      "pageSourceFile": "src/main/ets/pages/PointsPage.ets",
+      "buildFunction": "PointsBuilder"
+    },
+    {
+      "name": "editProfile",
+      "pageSourceFile": "src/main/ets/pages/EditProfilePage.ets",
+      "buildFunction": "EditProfileBuilder"
+    },
+    {
+      "name": "changePassword",
+      "pageSourceFile": "src/main/ets/pages/ChangePasswordPage.ets",
+      "buildFunction": "ChangePasswordBuilder"
+    }
+  ]
+}
